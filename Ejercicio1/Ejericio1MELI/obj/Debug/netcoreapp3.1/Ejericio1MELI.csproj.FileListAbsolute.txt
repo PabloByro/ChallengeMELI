@@ -13,7 +13,6 @@ C:\Users\Pbyro\source\repos\Ejericio1MELI\Ejericio1MELI\obj\Debug\netcoreapp3.1\
 C:\Users\Pbyro\source\repos\Ejericio1MELI\Ejericio1MELI\bin\Debug\netcoreapp3.1\Ejericio1MELI.dll.config
 C:\Users\Pbyro\source\repos\Ejericio1MELI\Ejericio1MELI\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
 C:\Users\Pbyro\source\repos\Ejericio1MELI\Ejericio1MELI\obj\Debug\netcoreapp3.1\Ejericio1MELI.csproj.CopyComplete
-C:\Users\Pbyro\source\repos\Ejericio1MELI\Ejericio1MELI\obj\Debug\netcoreapp3.1\Ejericio1MELI.csproj.CoreCompileInputs.cache
 C:\Users\Pbyro\source\repos\Ejericio1MELI\Ejericio1MELI\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
 C:\Users\Pbyro\source\repos\Ejericio1MELI\Ejericio1MELI\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
 C:\Users\Pbyro\source\repos\Ejericio1MELI\Ejericio1MELI\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
@@ -30,3 +29,9 @@ C:\Users\Pbyro\source\repos\Ejericio1MELI\Ejericio1MELI\bin\Debug\netcoreapp3.1\
 C:\Users\Pbyro\source\repos\Ejericio1MELI\Ejericio1MELI\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
 C:\Users\Pbyro\source\repos\Ejericio1MELI\Ejericio1MELI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Security.Principal.Windows.dll
 C:\Users\Pbyro\source\repos\Ejericio1MELI\Ejericio1MELI\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Pbyro\source\repos\Ejericio1MELI\Ejericio1MELI\bin\Debug\netcoreapp3.1\ExcelDataReader.dll
+C:\Users\Pbyro\source\repos\Ejericio1MELI\Ejericio1MELI\bin\Debug\netcoreapp3.1\Interop.LCC11.dll
+C:\Users\Pbyro\source\repos\Ejericio1MELI\Ejericio1MELI\obj\Debug\netcoreapp3.1\Interop.LCC11.dll
+C:\Users\Pbyro\source\repos\Ejericio1MELI\Ejericio1MELI\obj\Debug\netcoreapp3.1\Ejericio1MELI.csproj.ResolveComReference.cache
+C:\Users\Pbyro\source\repos\Ejericio1MELI\Ejericio1MELI\bin\Debug\netcoreapp3.1\Microsoft.Office.Interop.Excel.dll
+C:\Users\Pbyro\source\repos\Ejericio1MELI\Ejericio1MELI\obj\Debug\netcoreapp3.1\Ejericio1MELI.csproj.CoreCompileInputs.cache
