@@ -66,7 +66,7 @@ namespace Ejericio1MELI
                             string sMeliApiCN = (ConfigurationManager.AppSettings["urlCategoryName"]); //url API MELI, para obtener las categorias
 
                             //obtenemos el status de la cnx, cabecera, y cuerpo                
-                            var sURLCN = sMeliApi + category_id;
+                            var sURLCN = sMeliApiCN + category_id;
                             var requestCN = await client.GetAsync(sURLCN);
                             var requestContentCN = requestCN.Content;
                             string jsonContentCN = requestContentCN.ReadAsStringAsync().Result;
