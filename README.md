@@ -7,10 +7,9 @@ Observaciones Ejercicio 1
   y enviado a la clase ClsLog, funcion WriteLog, para que grabe el log con el formato indicado.
   Luego se llama la clase ClsCSV, el cual grabara el archivo CSV
   
-  Me encontre con uno problema que no logre solventar a tiempo.  
-  Al momento de querer recuperar los items obtengo un error y creo que es por no tener un token, recien logre encontrar en la web que
-  "A partir de abril de 2021 será obligatorio enviar el access token por header cada vez que realices llamadas a la API"
-
+ Si bien encontre esto en la web de Meli,  "A partir de abril de 2021 será obligatorio enviar el access token por header cada vez que realices llamadas a la API"
+ pude hacer cuantos recuperos de información quiciera sin problemas y recuperar la totalidad de la información.
+  
 Observaciones Ejercicio 2
   Se realizo Query en SQL, para recuperar los mismos datos presentados por el ejercicio. No logre hacer el From y los inner join ya que me faltaron datos.
 
