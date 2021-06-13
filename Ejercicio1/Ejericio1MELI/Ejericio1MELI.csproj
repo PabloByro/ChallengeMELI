@@ -6,6 +6,19 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <COMReference Include="LCC11.dll">
+      <Guid>edcd5812-6a06-43c3-afac-46ef5d14e22c</Guid>
+      <VersionMajor>3</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Lcid>0</Lcid>
+      <Isolated>false</Isolated>
+    </COMReference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="ExcelDataReader" Version="3.6.0" />
+    <PackageReference Include="Microsoft.Office.Interop.Excel" Version="15.0.4795.1000" />
     <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
     <PackageReference Include="System.Configuration.ConfigurationManager" Version="5.0.0" />
   </ItemGroup>
