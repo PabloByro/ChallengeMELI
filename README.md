@@ -7,8 +7,8 @@ Observaciones Ejercicio 1
   y enviado a la clase ClsLog, funcion WriteLog, para que grabe el log con el formato indicado.
   Luego se llama la clase ClsCSV, el cual grabara el archivo CSV
   
-  Me encontre con unos problemas que no logre solventar a tiempo.  
-  y al momento de querer recuperar los items obtengo un error y creo que es por no tener un token, recien logre encontrar en la web que
+  Me encontre con uno problema que no logre solventar a tiempo.  
+  Al momento de querer recuperar los items obtengo un error y creo que es por no tener un token, recien logre encontrar en la web que
   "A partir de abril de 2021 será obligatorio enviar el access token por header cada vez que realices llamadas a la API"
 
 Observaciones Ejercicio 2
